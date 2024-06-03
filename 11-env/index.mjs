@@ -1,4 +1,5 @@
 import { config } from 'dotenv';
+
 config();
 
 // Import entire module including default export
